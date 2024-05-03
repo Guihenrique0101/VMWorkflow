@@ -1,4 +1,5 @@
 name: BOTRDP
+authtoken: 2fpqvfTlvZYlw7KnDqgZ7SBrw8J_66g1xgFjwx1ZdSufEe7qx
 on:
   workflow_dispatch:
     inputs:
